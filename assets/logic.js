@@ -2,7 +2,7 @@
 const ulElement = document.querySelector('ul');
 let city;
 const formElement = document.getElementById('input_form');
-const API_Key = "52dac76407cc883132a49dead4a87d53";
+const API_Key = "760ef7cc0a48ca8044a2c63ae9d3a5db";
 let queryUrl;
 const prevCitiesList = document.getElementById('prevCities');
 const resultBody = document.getElementById('resultContainer');
